@@ -1,6 +1,8 @@
 <p>
 <a href = "https://www.instagram.com/diascasseb/">
 <img align="left" alt="Instagram de Felipe Casseb" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" style="max-width:100%;">
+  </a>
+  <a href = "https://www.youtube.com/channel/UCY8lIa5MhvlKzs6Y8DHZO-g">
 <img align="left" alt="Youtube de Felipe Casseb" width="22px" src="https://trucao.com.br/wp-content/uploads/2018/07/youtube-logo.png" style="max-width:100%;">
 </a>
 <p>- 👋 Olá, sou Felipe Casseb, um apaixonado T.I, Desenvolvedor Mobile e Graduando de Sistemas de Informação. Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. Tenho muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
