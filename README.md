@@ -6,7 +6,7 @@
 <img align="left" alt="Youtube de Felipe Casseb" width="22px" src="https://trucao.com.br/wp-content/uploads/2018/07/youtube-logo.png" style="max-width:100%;">
 </a>
 <p>- 👋 Olá, sou Felipe Casseb, um apaixonado T.I, Desenvolvedor Mobile e Graduando de Sistemas de Informação. Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. Tenho muito cuidado com a experiência, arquitetura e qualidade do código das coisas que construo.
-<p>- Também sou um entusiasta e mantenedor do código aberto. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento acontecem por meio do código aberto.
+<p>- Também sou um entusiasta e mantenedor do código aberto. Aprendi muito com a comunidade e adoro como a colaboração e o compartilhamento de conhecimento acontecem por meio do código aberto.
 <p>- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 <p>- 📫Como entrar em contato comigo: @felipecasseb ;
 <p>
