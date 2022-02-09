@@ -1,4 +1,7 @@
 <p>
+  <a href = "https://www.linkedin.com/in/felipecasseb1/">
+<img align="left" alt="LinkedIn de Felipe Casseb" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width:100%;">
+  </a>
 <a href = "https://www.instagram.com/diascasseb/">
 <img align="left" alt="Instagram de Felipe Casseb" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" style="max-width:100%;">
   </a>
